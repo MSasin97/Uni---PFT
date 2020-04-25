@@ -1,2 +1,2 @@
-# Uni---PFT
+# Uni-PFT
 Lab projects 
